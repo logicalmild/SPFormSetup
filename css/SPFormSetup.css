@@ -110,3 +110,19 @@ summary:after {
   padding: 0 0 12px 0;
   content: "➖";
 }
+
+
+.container{
+    width:100%;
+    
+}
+
+
+.Form-Result{
+    width:80%;
+    float:left;
+}
+.accordion-config{
+    width:20%;
+    float:left;
+}
