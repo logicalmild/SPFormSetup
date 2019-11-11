@@ -1,20 +1,5 @@
-@charset "UTF-8";
-html,
-body {
-  width: 100%;
-  height: 100%;
-  padding: 0;
-  overflow: hidden;
-  font-family: "Open Sans", sans-serif;
-}
 
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.container {
+.accordion-config {
   width: 450px;
   height: 376px;
 }
