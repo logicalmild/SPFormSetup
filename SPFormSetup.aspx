@@ -10,13 +10,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=10" />
 <SharePoint:CssRegistration Name="default" runat="server" />
     <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/jquery.terminal/js/jquery.terminal.min.js"></script>
-    <link href="https://cdn.jsdelivr.net/npm/jquery.terminal/css/jquery.terminal.min.css" rel="stylesheet"/>
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/4.0/1/MicrosoftAjax.js"></script>
     <script type="text/javascript" src="/_layouts/15/sp.runtime.js"></script>
     <script type="text/javascript" src="/_layouts/15/sp.js"></script>
     <script type="text/javascript" src="https://logicalmild.github.io/SPGuide/SPGuide.js"></script>
-    <link href="https://logicalmild.github.io/SPBoxQuery/css/SPBoxQuery.css" rel="stylesheet"/>
+    <link href="https://logicalmild.github.io/SPFormSetup/css/SPFormSetup.css" rel="stylesheet"/>
     
 </head>
 
@@ -28,6 +26,6 @@
     
 </body>
 
-    <script src="https://logicalmild.github.io/SPBoxQuery/js/SPBoxQuery.js"></script>
+    <script src="https://logicalmild.github.io/SPFormSetup/js/SPFormSetup.js"></script>
 
 </html>

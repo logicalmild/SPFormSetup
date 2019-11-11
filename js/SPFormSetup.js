@@ -21,7 +21,7 @@
         });
 
         function LoadHTML(selector,component){
-            var Url = 'https://logicalmild.github.io/SPBoxQuery/component/'+component+'/'+component+'.html';
+            var Url = 'https://logicalmild.github.io/SPFormSetup/component/'+component+'/'+component+'.html';
             $.ajax({ type: "GET",   
                 url: Url,
                 async: false,
@@ -38,7 +38,7 @@
                 });
         }
         function LoadJS(module){
-            var Url = 'https://logicalmild.github.io/SPBoxQuery/module/'+module+'/'+module+'.js';
+            var Url = 'https://logicalmild.github.io/SPFormSetup/module/'+module+'/'+module+'.js';
             $.ajax({
                 url: Url,
                 dataType: "script",
